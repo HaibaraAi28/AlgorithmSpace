@@ -1,0 +1,7 @@
+固定数组实现栈：
+维护一个index，开始指向0，每插入一个值，index++，取出一个值，index--
+
+固定数组实现队列：
+维护两个index，一个putIndex记录插入位置，一个pollIndex记录提取位置，
+记录一个size为队列中当前记录数量，和队列大小limit
+当size=0，
