@@ -1,5 +1,8 @@
 package com.fcd.algorithmlclass.sort;
 
+/**
+ * 快排不稳定
+ */
 public class PartitionAndQuickSort {
     public static void swap(int[] arr, int i, int j) {
         int tmp = arr[i];

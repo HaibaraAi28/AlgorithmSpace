@@ -1,7 +1,7 @@
 package com.fcd.algorithmlclass.sort;
 
 /**
- * 归并排序
+ * 归并排序，一般是稳定的
  */
 public class MergeSort {
 

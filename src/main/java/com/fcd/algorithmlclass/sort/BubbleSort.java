@@ -2,8 +2,11 @@ package com.fcd.algorithmlclass.sort;
 
 import java.util.Arrays;
 
+/**
+ * 时间复杂度O(n^2),稳定
+ */
 public class BubbleSort {
-    //时间复杂度O(n^2),稳定
+
     public static void bubbleSort(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;

@@ -3,6 +3,9 @@ package com.fcd.algorithmlclass.sort;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+/**
+ * 不稳定
+ */
 public class HeapSort {
     // 堆排序额外空间复杂度O(1)
     public static void heapSort(int[] arr) {
