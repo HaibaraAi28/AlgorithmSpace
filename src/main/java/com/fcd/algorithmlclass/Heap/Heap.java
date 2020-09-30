@@ -48,6 +48,7 @@ public class Heap {
             return ans;
         }
 
+        //与父节点比较，大则交换
         private void heapInsert(int[] arr, int index) {
             // arr[index]
             // arr[index] 不比 arr[index父]大了 ， 停
