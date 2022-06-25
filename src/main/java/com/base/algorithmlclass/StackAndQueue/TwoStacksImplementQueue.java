@@ -31,6 +31,7 @@ public class TwoStacksImplementQueue {
         public void add(int pushInt) {
             stackPush.push(pushInt);
             pushToPop();
+            int[] i4 = new int[]{1,2};
         }
 
         public int poll() {
