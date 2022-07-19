@@ -1,9 +1,11 @@
 package com.base.leetcode.swordoffer;
 
+
 import java.util.Arrays;
 
 public class PaintHouse_091 {
     public int minCost1(int[][] costs) {
+
         // 第i个房子涂j颜色时最小总价
         int[][] dp = new int[costs.length][3];
 
