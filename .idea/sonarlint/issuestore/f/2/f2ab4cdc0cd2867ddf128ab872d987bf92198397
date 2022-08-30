@@ -1,0 +1,17 @@
+
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Æˆ€Î.
+Y	java:S125†"<This block of commented-out lines of code should be removed.(æ†¼¢8Æˆ€Î.
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(²º¾¸8Æˆ€Î.
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(Û€øÍ8Æˆ€Î.
+t
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(È¿ìğÿÿÿÿÿ8Æˆ€Î.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËûœĞ
+a
+java:S3358q"DExtract this nested ternary operation into an independent statement.(ä‹ÒÈ8Æˆ€Î.
+r
+java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ8Æˆ€Î.
+R
+java:S1854"5Remove this useless assignment to local variable "i".(Ş¼Ş¢8Æˆ€Î.
+s
+java:S1104
+"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8Æˆ€Î.

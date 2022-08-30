@@ -1,0 +1,41 @@
+
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+l
+java:S2259R"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+s
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8Á§¥„Î.
+o
+java:S1104"RMake parent a static final constant or non-public and provide accessors if needed.(ÑÅÿ8Á§¥„Î.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ßÜ2
+f
+java:S1192D"IDefine a constant instead of duplicating this literal " next: " 10 times.(û’ÅÄ8Á§¥„Î.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+l
+java:S2259H"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(÷’ÿÿÿÿÿ8Á§¥„Î.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+l
+java:S2259L"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.
+m
+java:S1104	"PMake left a static final constant or non-public and provide accessors if needed.(ó÷ÔÄ8Á§¥„Î.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(û’ÅÄ8Á§¥„Î.
+l
+java:S2259F"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.
+l
+java:S2259P"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.
+n
+java:S1104
+"QMake right a static final constant or non-public and provide accessors if needed.(Ö¢è¥8Á§¥„Î.
+l
+java:S2259N"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.
+l
+java:S2259J"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.
+l
+java:S2259D"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.
+l
+java:S2259T"OA "NullPointerException" could be thrown; "getSuccessorNode()" can return null.(û’ÅÄ8Á§¥„Î.

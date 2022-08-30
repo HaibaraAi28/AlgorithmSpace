@@ -1,0 +1,22 @@
+
+
+java:S1319 "kThe type of the "use" object should be an interface such as "Set" rather than the implementation "HashSet".(ˆ¯·šıÿÿÿÿ8„Â·Î.
+E
+java:S2140R")Use "java.util.Random.nextInt()" instead.(Ë÷?8„Â·Î.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·±“
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(¤ÂÓÊÿÿÿÿÿ8„Â·Î.
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(¯Ìôè8„Â·Î.
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(¸íÆ¤ûÿÿÿÿ8„Â·Î.
+K
+java:S2140J")Use "java.util.Random.nextInt()" instead.(×Æİ³üÿÿÿÿ8„Â·Î.
+T	java:S106r"9Replace this use of System.out or System.err by a logger.(ìØë/8„Â·Î.
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8„Â·Î.
+F
+java:S2140H")Use "java.util.Random.nextInt()" instead.(²´ÛÔ8„Â·Î.
+
+java:S1319 "nThe type of the "all" object should be an interface such as "List" rather than the implementation "ArrayList".(ˆ¯·šıÿÿÿÿ8„Â·Î.
+9
+java:S1643A"Use a StringBuilder instead.(›¸‚î8„Â·Î.
+T	java:S106i"9Replace this use of System.out or System.err by a logger.(ìØë/8„Â·Î.
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(„½˜Ù8„Â·Î.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8„Â·Î.

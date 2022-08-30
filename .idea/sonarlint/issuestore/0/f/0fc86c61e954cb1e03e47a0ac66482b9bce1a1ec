@@ -1,0 +1,29 @@
+
+p
+java:S1104"SMake parents a static final constant or non-public and provide accessors if needed.(é“Û8£µ¯ÄÎ.
+Œ
+java:S1319"oThe type of the "parents" object should be an interface such as "Map" rather than the implementation "HashMap".(é“Û8£µ¯ÄÎ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¸é½
+s
+java:S1104"QMake nodes a static final constant or non-public and provide accessors if needed.(İ«Šçøÿÿÿÿ8£µ¯ÄÎ.
+o
+java:S1104M"MMake b a static final constant or non-public and provide accessors if needed.(êòÍŒúÿÿÿÿ8£µ¯ÄÎ.
+m
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Òò˜®8íŸ°ÄÎ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¯ŸÔ¡8£µ¯ÄÎ.
+i
+java:S1223["LRename this method to prevent any misunderstanding or make it a constructor.(üÂÀ8£µ¯ÄÎ.
+‘
+java:S1319"oThe type of the "sizeMap" object should be an interface such as "Map" rather than the implementation "HashMap".(¿™®òøÿÿÿÿ8£µ¯ÄÎ.
+o
+java:S1104N"MMake c a static final constant or non-public and provide accessors if needed.(ïòÊ²ıÿÿÿÿ8£µ¯ÄÎ.
+m
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Òò˜®8íŸ°ÄÎ.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ŸÔ¡8¥¢¯ÄÎ.
+j
+java:S1104L"MMake a a static final constant or non-public and provide accessors if needed.(›Ó‡8£µ¯ÄÎ.
+
+java:S1319"mThe type of the "nodes" object should be an interface such as "Map" rather than the implementation "HashMap".(İ«Šçøÿÿÿÿ8£µ¯ÄÎ.
+u
+java:S1104"SMake sizeMap a static final constant or non-public and provide accessors if needed.(¿™®òøÿÿÿÿ8£µ¯ÄÎ.

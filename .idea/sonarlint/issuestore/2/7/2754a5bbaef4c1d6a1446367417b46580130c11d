@@ -1,0 +1,20 @@
+
+‘
+java:S1319"oThe type of the "parents" object should be an interface such as "Map" rather than the implementation "HashMap".(ğšÏ¦úÿÿÿÿ8â­ãÁÎ.
+Œ
+java:S1319"oThe type of the "sizeMap" object should be an interface such as "Map" rather than the implementation "HashMap".(°¾êÀ8â­ãÁÎ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¸é½
+n
+java:S1104"QMake nodes a static final constant or non-public and provide accessors if needed.(°Îòƒ8â­ãÁÎ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(‘’8â­ãÁÎ.
+u
+java:S1104"SMake parents a static final constant or non-public and provide accessors if needed.(ğšÏ¦úÿÿÿÿ8â­ãÁÎ.
+m
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Òò˜®8ªİäÁÎ.
+p
+java:S1104"SMake sizeMap a static final constant or non-public and provide accessors if needed.(°¾êÀ8â­ãÁÎ.
+m
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Òò˜®8ªİäÁÎ.
+Š
+java:S1319"mThe type of the "nodes" object should be an interface such as "Map" rather than the implementation "HashMap".(°Îòƒ8â­ãÁÎ.

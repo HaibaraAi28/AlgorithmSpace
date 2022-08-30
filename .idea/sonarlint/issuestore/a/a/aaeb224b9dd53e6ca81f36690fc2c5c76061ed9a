@@ -1,0 +1,16 @@
+
+y
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(½ÁÜŠüÿÿÿÿ8†ÑÔ¨Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º¼É°8†ÑÔ¨Í.
+W
+java:S2589"7Remove this expression which always evaluates to "true"(Äƒ“ÿÿÿÿÿ8†ÑÔ¨Í.
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(ú»š‡8†ÑÔ¨Í.
+A
+java:S1168"&Return an empty array instead of null.(¥¹ï8†ÑÔ¨Í.
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(‹¤âá8†ÑÔ¨Í.
+I
+java:S2140")Use "java.util.Random.nextInt()" instead.(¿Ï„ùÿÿÿÿ8†ÑÔ¨Í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(õ¡‹¾ûÿÿÿÿ8†ÑÔ¨Í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8†ÑÔ¨Í.

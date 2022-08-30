@@ -1,0 +1,37 @@
+
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(ù¾ž¬ýÿÿÿÿ8ôƒ«öÍ.
+^	java:S125©"<This block of commented-out lines of code should be removed.(¯ó­êýÿÿÿÿ8ôƒ«öÍ.
+l
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8ôƒ«öÍ.
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(²Ý¨¦8ôƒ«öÍ.
+Y	java:S125¥"<This block of commented-out lines of code should be removed.(³Šß£8ôƒ«öÍ.
+^	java:S125¬"<This block of commented-out lines of code should be removed.(îÐ†æüÿÿÿÿ8ôƒ«öÍ.
+V	java:S106Ä"9Replace this use of System.out or System.err by a logger.(²Ý¨¦8ôƒ«öÍ.
+p
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8ôƒ«öÍ.
+d
+java:S1192Y"HDefine a constant instead of duplicating this literal "Name : " 4 times.(Úöú8ôƒ«öÍ.
+T	java:S106Y"9Replace this use of System.out or System.err by a logger.(Úöú8ôƒ«öÍ.
+]	java:S125{"<This block of commented-out lines of code should be removed.(€“ªµýÿÿÿÿ8ôƒ«öÍ.
+^	java:S125°"<This block of commented-out lines of code should be removed.(ç–êöùÿÿÿÿ8ôƒ«öÍ.
+V	java:S106£"9Replace this use of System.out or System.err by a logger.(²Ý¨¦8ôƒ«öÍ.
+[	java:S106Ð"9Replace this use of System.out or System.err by a logger.(Èƒ°Öþÿÿÿÿ8ôƒ«öÍ.
+V	java:S106™"9Replace this use of System.out or System.err by a logger.(²Ý¨¦8ôƒ«öÍ.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8ôƒ«öÍ.
+e
+java:S1192Y"IDefine a constant instead of duplicating this literal ", Age : " 4 times.(Úöú8ôƒ«öÍ.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ôƒ«öÍ.
+U	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÇÑ×8ôƒ«öÍ.
+V	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(²Ý¨¦8ôƒ«öÍ.
+V	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(²Ý¨¦8ôƒ«öÍ.
+d
+java:S1192Y"HDefine a constant instead of duplicating this literal ", Id : " 4 times.(Úöú8ôƒ«öÍ.
+V	java:S106Å"9Replace this use of System.out or System.err by a logger.(²Ý¨¦8ôƒ«öÍ.
+V	java:S106Ã"9Replace this use of System.out or System.err by a logger.(²Ý¨¦8ôƒ«öÍ.
+U	java:S106Á"9Replace this use of System.out or System.err by a logger.(Úöú8ôƒ«öÍ.
+V	java:S106Í"9Replace this use of System.out or System.err by a logger.(Êû 8ôƒ«öÍ.
+z
+java:S1192‹"\Define a constant instead of duplicating this literal "===========================" 8 times.(²Ý¨¦8ôƒ«öÍ.
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(º¼É°8ôƒ«öÍ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ùåÒüÿÿÿÿ

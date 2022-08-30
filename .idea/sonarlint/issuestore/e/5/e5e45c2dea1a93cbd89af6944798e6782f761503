@@ -1,0 +1,8 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò° 
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™²Ãä8áÓÙÿÓ.
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ8ƒ˜ÜÿÓ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶»á°8„·ßÿÓ.
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ8„·ßÿÓ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ºš‚„8ë‚ò…Ô.
+X	java:S125"<This block of commented-out lines of code should be removed.(£Û¦Í8ë‚ò…Ô.

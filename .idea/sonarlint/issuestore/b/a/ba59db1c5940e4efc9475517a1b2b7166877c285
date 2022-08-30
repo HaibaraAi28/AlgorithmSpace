@@ -1,0 +1,26 @@
+
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(öş¨…ûÿÿÿÿ8ÜÌöÍ.
+G
+java:S2140è")Use "java.util.Random.nextInt()" instead.(Î¬Ô¥8ÜÌöÍ.
+V	java:S106ô"9Replace this use of System.out or System.err by a logger.(ìÇÔ¶8ÜÌöÍ.
+l
+java:S1104`"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8ÜÌöÍ.
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(öş¨…ûÿÿÿÿ8ÜÌöÍ.
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(ØÜ£š8ÜÌöÍ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÛ’Êøÿÿÿÿ
+V	java:S106ğ"9Replace this use of System.out or System.err by a logger.(„½˜Ù8ÜÌöÍ.
+n
+java:S1192"PDefine a constant instead of duplicating this literal "===============" 3 times.(ØÜ£š8ÜÌöÍ.
+p
+java:S1104a"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8ÜÌöÍ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ØÜ£š8ÜÌöÍ.
+[	java:S106Ü"9Replace this use of System.out or System.err by a logger.(¸íÆ¤ûÿÿÿÿ8ÜÌöÍ.
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(öş¨…ûÿÿÿÿ8ÜÌöÍ.
+L
+java:S2140ã")Use "java.util.Random.nextInt()" instead.(±–Ÿ‰üÿÿÿÿ8ÜÌöÍ.
+u
+java:S1104_"SMake classNo a static final constant or non-public and provide accessors if needed.(ÿ¢Ğôşÿÿÿÿ8ÜÌöÍ.
+L
+java:S2140é")Use "java.util.Random.nextInt()" instead.(®ğË‡ùÿÿÿÿ8ÜÌöÍ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ØÜ£š8ÜÌöÍ.
+[	java:S106¶"9Replace this use of System.out or System.err by a logger.(öş¨…ûÿÿÿÿ8ÜÌöÍ.

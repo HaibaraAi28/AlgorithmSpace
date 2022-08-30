@@ -1,0 +1,33 @@
+
+p
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Çµí‘8Â€Æ¯Í.
+{
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(•àõØýÿÿÿÿ8Â€Æ¯Í.
+G
+java:S2140²")Use "java.util.Random.nextInt()" instead.(‰Æ»¦8Â€Æ¯Í.
+s
+java:S1149¡"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8¦ÓÆ¯Í.
+{
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(²öñÊüÿÿÿÿ8Â€Æ¯Í.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÖ®‚ûÿÿÿÿ
+Z
+java:S2589”"7Remove this expression which always evaluates to "true"(”àƒ¦þÿÿÿÿ8Â€Æ¯Í.
+s
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(Ù­Áæüÿÿÿÿ8Â€Æ¯Í.
+G
+java:S2140¤")Use "java.util.Random.nextInt()" instead.(ßü°‹8Â€Æ¯Í.
+m
+java:S1104"PMake last a static final constant or non-public and provide accessors if needed.(²Ï÷ã8Â€Æ¯Í.
+{
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(²öñÊüÿÿÿÿ8Â€Æ¯Í.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•àõØýÿÿÿÿ8Â€Æ¯Í.
+l
+java:S1104"PMake tail a static final constant or non-public and provide accessors if needed.(Ð‚”J8Â€Æ¯Í.
+r
+java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(þ›‘ïÿÿÿÿÿ8Â€Æ¯Í.
+V	java:S106®"9Replace this use of System.out or System.err by a logger.(¢îãþ8Â€Æ¯Í.
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(¤ÂÓÊÿÿÿÿÿ8Â€Æ¯Í.
+V	java:S106¼"9Replace this use of System.out or System.err by a logger.(¢îãþ8Â€Æ¯Í.
+r
+java:S1104"PMake head a static final constant or non-public and provide accessors if needed.(ÏÇ°¡ûÿÿÿÿ8Â€Æ¯Í.
