@@ -1,10 +1,0 @@
-
-Z	java:S1060"9Replace this use of System.out or System.err by a logger.(‘ıÛ™şÿÿÿÿ8ŞÒç‚Î.
-m
-java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(ó÷ÔÄ8ŞÒç‚Î.
-n
-java:S1104"QMake right a static final constant or non-public and provide accessors if needed.(Ö¢è¥8ŞÒç‚Î.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¬ê±8ŞÒç‚Î.
-s
-java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8ŞÒç‚Î.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ßÜ2

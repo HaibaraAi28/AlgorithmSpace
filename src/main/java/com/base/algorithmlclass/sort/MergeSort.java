@@ -144,4 +144,21 @@ public class MergeSort {
         }
         System.out.println(succeed ? "Nice!" : "Oops!");
     }
+
+//    public class MergeSort {
+//        public void mergeSort(int[] arr) {
+//
+//        }
+//
+//        public void process(int[] arr, int left, int right) {
+//            //
+//        }
+//
+//        /**
+//         * 将数组两部分按序合并
+//         */
+//        public void merge(int[] arr, int left, int right, int mid) {
+//
+//        }
+//    }
 }

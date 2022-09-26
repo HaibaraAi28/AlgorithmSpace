@@ -1,18 +1,0 @@
-
-m
-java:S11049"PMake node a static final constant or non-public and provide accessors if needed.(Ù‚é÷8õÄÖåÎ.
-W
-java:S1118":Add a private constructor to hide the implicit public one.(Ó½ùŠ8õÄÖåÎ.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„†ÒÛøÿÿÿÿ
-•
-java:S1319)"sThe type of the "distanceMap" object should be an interface such as "Map" rather than the implementation "HashMap".(ˆé°öüÿÿÿÿ8õÄÖåÎ.
-G
-java:S1172o"+Remove this unused method parameter "node".(•áÙg8õÄÖåÎ.
-‹
-java:S1319›"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Áò•—8õÄÖåÎ.
-Š
-java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ûªîŞ8õÄÖåÎ.
-‘
-java:S1319*"tThe type of the "touchedNodes" object should be an interface such as "Set" rather than the implementation "HashSet".(—Œ™8õÄÖåÎ.
-v
-java:S1104:"TMake distance a static final constant or non-public and provide accessors if needed.(»‡¼´ÿÿÿÿÿ8õÄÖåÎ.

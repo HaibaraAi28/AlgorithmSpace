@@ -1,17 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„†ÒÛøÿÿÿÿ
-s
-java:S1104	"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8ºïÁâÎ.
-s
-java:S1104"QMake nexts a static final constant or non-public and provide accessors if needed.(ËîÓÍıÿÿÿÿ8ºïÁâÎ.
-p
-java:S1104
-"NMake in a static final constant or non-public and provide accessors if needed.(â¹å¶úÿÿÿÿ8ºïÁâÎ.
-’
-java:S1319"pThe type of the "edges" object should be an interface such as "List" rather than the implementation "ArrayList".(Ë‚Éğûÿÿÿÿ8ºïÁâÎ.
-s
-java:S1104"QMake edges a static final constant or non-public and provide accessors if needed.(Ë‚Éğûÿÿÿÿ8ºïÁâÎ.
-q
-java:S1104"OMake out a static final constant or non-public and provide accessors if needed.(Ëœåºıÿÿÿÿ8ºïÁâÎ.
-’
-java:S1319"pThe type of the "nexts" object should be an interface such as "List" rather than the implementation "ArrayList".(ËîÓÍıÿÿÿÿ8ºïÁâÎ.

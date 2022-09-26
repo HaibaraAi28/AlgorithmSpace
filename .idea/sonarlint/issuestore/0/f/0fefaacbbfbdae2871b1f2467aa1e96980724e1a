@@ -1,8 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹œâèûÿÿÿÿ8¹¡òĞ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¹¡òĞ.
-J
-java:S1172"(Remove this unused method parameter "n".(½ ü‹ÿÿÿÿÿ8¹¡òĞ.
-U
-java:S11971"8Move the array designator from the variable to the type.(“·¦ƒ8¹¡òĞ.
-m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üğûá8¹¡òĞ.

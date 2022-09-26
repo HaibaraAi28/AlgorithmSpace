@@ -1,27 +1,0 @@
-
-J
-java:S1125e"(Remove the literal "true" boolean value.(òŠÕ«ÿÿÿÿÿ8Ã²…Î.
-m
-java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(ó÷ÔÄ8Ã²…Î.
-m	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔØãú8Ã²…Î.
-v
-java:S1104@"YMake maxSubBSTHead a static final constant or non-public and provide accessors if needed.(ª³‰³8Ã²…Î.
-{
-java:S1104A"YMake maxSubBSTSize a static final constant or non-public and provide accessors if needed.(ĞÉÔ—üÿÿÿÿ8Ã²…Î.
-E
-java:S1125f"(Remove the literal "true" boolean value.(ÖÉÒİ8Ã²…Î.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÛøÕøÿÿÿÿ
-F
-java:S2140x")Use "java.util.Random.nextInt()" instead.(ÁíŞ8Ã²…Î.
-s
-java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8Ã²…Î.
-n
-java:S1104"QMake right a static final constant or non-public and provide accessors if needed.(Ö¢è¥8Ã²…Î.
-q
-java:S1104B"OMake min a static final constant or non-public and provide accessors if needed.(Ü—ùßÿÿÿÿÿ8Ã²…Î.
-V	java:S106…"9Replace this use of System.out or System.err by a logger.(„½˜Ù8Ã²…Î.
-
-java:S1319""nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(¾Îıÿÿÿÿ8Ã²…Î.
-[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¤ÂÓÊÿÿÿÿÿ8Ã²…Î.
-l
-java:S1104C"OMake max a static final constant or non-public and provide accessors if needed.(¢€ê×8Ã²…Î.
